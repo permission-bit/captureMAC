@@ -1,0 +1,3 @@
+// Still — UTF-8 localization. Keep format placeholders intact.
+"NSMicrophoneUsageDescription" = "Still використовує мікрофон, лише якщо ви хочете додати голос до запису екрана.";
+"NSScreenCaptureUsageDescription" = "Still потрібен доступ до екрана для запису вибраного джерела й показу перегляду.";

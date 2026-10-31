@@ -1,0 +1,3 @@
+// Still — UTF-8 localization. Keep format placeholders intact.
+"NSMicrophoneUsageDescription" = "Still आपके माइक्रोफ़ोन का उपयोग केवल तब करता है जब आप स्क्रीन रिकॉर्डिंग में अपनी आवाज़ जोड़ना चुनते हैं।";
+"NSScreenCaptureUsageDescription" = "Still को चुने हुए स्रोत की रिकॉर्डिंग और पूर्वावलोकन दिखाने के लिए स्क्रीन की अनुमति चाहिए।";

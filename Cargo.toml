@@ -1,0 +1,16 @@
+[package]
+name = "still-core"
+version = "0.1.0"
+edition = "2024"
+description = "Rust recording lifecycle, settings and media library for Still on macOS"
+license = "MIT"
+
+[lib]
+name = "still_core"
+crate-type = ["staticlib", "rlib"]
+
+[profile.release]
+lto = true
+codegen-units = 1
+panic = "abort"
+strip = "debuginfo"

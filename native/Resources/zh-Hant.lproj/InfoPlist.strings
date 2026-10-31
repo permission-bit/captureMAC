@@ -1,0 +1,3 @@
+// Still — UTF-8 localization. Keep format placeholders intact.
+"NSMicrophoneUsageDescription" = "僅當你選擇在螢幕錄製中加入聲音時，Still 才會使用麥克風。";
+"NSScreenCaptureUsageDescription" = "Still 需要螢幕存取權限，以錄製你選擇的來源並顯示預覽。";

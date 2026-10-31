@@ -1,0 +1,3 @@
+// Still — UTF-8 localization. Keep format placeholders intact.
+"NSMicrophoneUsageDescription" = "Still usa seu microfone apenas quando você escolhe adicionar sua voz a uma gravação de tela.";
+"NSScreenCaptureUsageDescription" = "Still precisa de acesso à tela para gravar a fonte escolhida e mostrar uma prévia.";
